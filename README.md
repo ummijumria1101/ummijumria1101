@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ummi Jumria</h1>
 <h3 align="center">Interest in data and telecommunications</h3>
 
-- 🌱 I’m currently learning **data, antennas, and telecommunication**
+- 🌱 I’m currently learning **data, antennas, radar and telecommunication**
 
 - 📫 How to reach me **ummijumria@gmail.com**
 
